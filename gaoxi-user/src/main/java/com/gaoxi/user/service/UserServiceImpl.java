@@ -21,7 +21,7 @@ public class UserServiceImpl implements UserService {
     @Autowired
     private UserDAO userDAO;
 
-    private static final String USER_KEY_PREFIX="USER";
+
 
 
     @Override
