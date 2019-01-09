@@ -3,7 +3,6 @@ package com.gaoxi.controller.user;
 import com.alibaba.dubbo.config.annotation.Reference;
 import gaoxi.facade.user.UserService;
 import gaoxi.req.user.LoginReq;
-
 import javax.servlet.http.HttpServletResponse;
 import javax.xml.transform.Result;
 
